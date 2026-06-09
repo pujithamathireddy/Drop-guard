@@ -232,5 +232,4 @@ Father's occupation	The occupation of the student's Mother and Father	1—Studen
 26.	Target	Status of the student	Graduate
 Dropout
 Enrolled
-watch this video from this link: https://github.com/pujithamathireddy/Drop-guard/blob/main/Student_Future_path_AI_video.mp4 
-
+watch this video from this link:https://github.com/pujithamathireddy/Future-Path-AI/blob/main/Student_Future_path_AI_video.mp4
